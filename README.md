@@ -17,8 +17,9 @@ project1/
 ```bash
 docker pull mahek29/project1-html:latest
 
-🧪 Step 2: Run the Docker Container
+### **Step 2: Run the Docker Container**
 docker run -p 8080:80 mahek29/project1-html:latest
+
 👉 Then open in browser: http://localhost:8080
 
 📦 Docker Hub
@@ -28,6 +29,10 @@ docker run -p 8080:80 mahek29/project1-html:latest
 Mahek Agarwal
 B.Tech CSE | DevOps & Cloud Enthusiast
 GitHub Profile
+
+
+
+
 
 
 
